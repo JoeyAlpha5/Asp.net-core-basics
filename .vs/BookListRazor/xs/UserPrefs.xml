@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{FEBA9F86-4FB2-48D7-9A68-41629189F690}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookListRazor/Model/ApplicationDbContext.cs">
     <Files>
       <File FileName="BookListRazor/appsettings.json" Line="4" Column="104" />
       <File FileName="BookListRazor/Startup.cs" Line="31" Column="125" />
-      <File FileName="BookListRazor/Model/ApplicationDbContext.cs" />
+      <File FileName="BookListRazor/Model/ApplicationDbContext.cs" Line="2" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookListRazor" expanded="True">
             <Node name="BookListRazor" expanded="True">
-              <Node name="Model" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Model" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
